@@ -11,3 +11,6 @@ echo "sum of $a, $b, $c is $sum"
 
 diff=$(($a - $b))
 echo "Diff of $a and $b is $diff"
+
+multi=$(($a * $b))
+echo "Product of $a and $b is $multi"
