@@ -6,8 +6,8 @@ read b
 echo "enter a number: "
 read c
 
-sum=$(($a + $b))
-echo "sum of $a and $b is $sum"
+sum=$(($a + $b + c))
+echo "sum of $a, $b, $c is $sum"
 
 diff=$(($a - $b))
 echo "Diff of $a and $b is $diff"
