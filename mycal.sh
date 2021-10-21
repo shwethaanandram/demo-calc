@@ -14,3 +14,6 @@ echo "Diff of $a and $b is $diff"
 
 multi=$(($a * $b))
 echo "Product of $a and $b is $multi"
+
+div=$(($a / $b))
+echo "division of $a with $b is $div"
