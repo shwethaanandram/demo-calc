@@ -1,4 +1,4 @@
-###!/bin/bash
+#####!/bin/bash
 echo "enter a number: "
 read a
 echo "enter a number: "
